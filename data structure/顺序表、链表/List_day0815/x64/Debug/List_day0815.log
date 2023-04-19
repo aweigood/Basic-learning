@@ -1,0 +1,4 @@
+﻿  8.17.cpp
+  LINK : 没有找到 E:\比特学习\c++学习\List_day0815\x64\Debug\List_day0815.exe 或上一个增量链接没有生成它；正在执行完全链接
+8.19.obj : error LNK2005: main 已经在 8.17.obj 中定义
+E:\比特学习\c++学习\List_day0815\x64\Debug\List_day0815.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

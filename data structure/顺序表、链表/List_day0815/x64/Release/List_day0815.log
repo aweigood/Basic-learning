@@ -1,0 +1,4 @@
+﻿  8.17.cpp
+  8.18.cpp
+8.18.obj : error LNK2001: 无法解析的外部符号 "void __cdecl SListInsertAfter(struct SListNode *,int)" (?SListInsertAfter@@YAXPEAUSListNode@@H@Z)
+C:\Users\小魏\Desktop\比特学习\c++学习\List_day0815\x64\Release\List_day0815.exe : fatal error LNK1120: 1 个无法解析的外部命令
