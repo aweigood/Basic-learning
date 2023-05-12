@@ -1,0 +1,26 @@
+﻿  BinaryTree.c
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(35,21): warning C4133: “=”: 从“BTNode *”到“Datatype *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(36,22): warning C4133: “=”: 从“BTNode *”到“Datatype *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(38,21): warning C4133: “=”: 从“BTNode *”到“Datatype *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(40,21): warning C4133: “=”: 从“BTNode *”到“Datatype *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(41,22): warning C4133: “=”: 从“BTNode *”到“Datatype *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(55,21): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(56,22): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(68,20): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(70,21): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(81,22): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(82,23): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(94,38): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(95,28): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(111,38): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(111,72): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(130,40): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(131,35): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(146,33): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(150,35): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(169,46): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(170,47): warning C4133: “函数”: 从“Datatype *”到“BTNode *”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(183,14): warning C4098: “BinaryTreeDestory”:“void”函数返回值
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(186,35): warning C4133: “函数”: 从“Datatype **”到“BTNode **”的类型不兼容
+E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\二叉树的基本操作\BinaryTree.c(187,36): warning C4133: “函数”: 从“Datatype **”到“BTNode **”的类型不兼容
+  二叉树的基本操作.vcxproj -> E:\比特学习\编程练习\上课代码\数据结构学习\二叉树的基本操作\x64\Debug\二叉树的基本操作.exe
